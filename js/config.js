@@ -325,7 +325,7 @@ const API_SITES = {
     "dnzzy": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
       "name": "AV-大奶子",
-      "detail": "https://apidanaizi.com,
+      "detail": "https://apidanaizi.com",
        adult: true
     },
     "xxbzy": {
